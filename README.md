@@ -13,7 +13,7 @@ This project presents a complete **ROS 2 Jazzy-based simulation framework** for 
 It integrates simulation, mapping, and navigation pipelines in a modular and reproducible workspace.
 
 **ROS 2 Distribution:** *Jazzy Jalisco*  
-**Simulation Environment:** *Gazebo Sim / RViz2*  
+**Simulation Environment:** *Gazebo gz Harmonic / RViz2*  
 **Primary Package:** `diffbot_learning`
 
 The workspace is organized into three operational phases:
