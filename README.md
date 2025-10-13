@@ -7,12 +7,19 @@ It includes simulation setup, velocity mapping, SLAM configuration, and navigati
 
 ## 📁 Project Overview
 
-**Workspace:** `ros_ws`  
-**ROS 2 Distribution:** Jazzy Jalisco  
-**Simulation Environment:** Gazebo / RViz  
-**Main Package:** `diffbot_learning`
+This project presents a complete **ROS 2 Jazzy-based simulation framework** for autonomous navigation using the *DiffBot* platform.  
+It integrates simulation, mapping, and navigation pipelines in a modular and reproducible workspace.
 
-The workflow is divided into three primary phases:
+**ROS 2 Distribution:** *Jazzy Jalisco*  
+**Simulation Environment:** *Gazebo Sim / RViz2*  
+**Primary Package:** `diffbot_learning`
+
+The workspace is organized into three operational phases:
+1. **Teleoperation** – Manual control for system validation and motion testing.  
+2. **Mapping** – Environment exploration and 2D map generation using SLAM Toolbox.  
+3. **Autonomous Navigation** – Path planning and goal-based navigation using the generated map.
+
+Each phase is designed for extensibility, enabling future integration with additional sensor modules, localization methods, and multi-floor navigation strategies.
 
 ---
 
