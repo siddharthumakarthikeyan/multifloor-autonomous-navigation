@@ -126,5 +126,5 @@ ros_ws/
 
 **Siddharth Umakarthikeyan**  
 Robotics Engineer @ Telenex Robotics  
-📧 [your.email@domain.com]  
+📧 [siddharth.some@gmail.com]  
 🌐 [https://github.com/siddharthumakarthikeyan](https://github.com/siddharthumakarthikeyan)
