@@ -1,5 +1,7 @@
 # 🦾 Multifloor Autonomous Navigation (ROS 2 Jazzy)
 
+![Project Cover](src/cover.png)
+
 This repository contains the ROS 2 workspace for **teleoperation, mapping, and autonomous navigation** of the DiffBot simulation.  
 It includes simulation setup, velocity mapping, SLAM configuration, and navigation modules.
 
