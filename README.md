@@ -134,6 +134,6 @@ ros_ws/
 ## 🧩 Author
 
 **Siddharth Umakarthikeyan**  
-Robotics Engineer @ Telenex Robotics  
+Robotics Software Engineer
 📧 [siddharth.some@gmail.com]  
 🌐 [https://github.com/siddharthumakarthikeyan](https://github.com/siddharthumakarthikeyan)
